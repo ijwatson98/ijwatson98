@@ -1,6 +1,6 @@
 # Isaac Watson
 
-AI Research Engineer working on language models, evaluation, and inference systems.
+AI Research Engineer at ZILO working on language models, evaluation, and inference systems.
 
 ## Current focus
 - small language model training and evaluation
