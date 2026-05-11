@@ -11,7 +11,6 @@ AI Research Engineer at ZILO working on language models, evaluation, and inferen
 - [`prompt-optimisation`](https://github.com/ijwatson98/prompt-optimisation) — MSc project on multi-agent prompt optimisation
 - [`SmallLanguageModelFineTuning`](https://github.com/ijwatson98/SmallLanguageModelFineTuning) — SFT and RLAIF experiments for smaller language models
 - [`MultiAgentTrading`](https://github.com/ijwatson98/MultiAgentTrading) — hierarchical multi-agent reinforcement learning for trading
-- [`Upsilon-Masses`](https://github.com/ijwatson98/Upsilon-Masses) — earlier scientific computing / physics work
 
 ## Background
 - MSc Computational Statistics and Machine Learning, UCL
